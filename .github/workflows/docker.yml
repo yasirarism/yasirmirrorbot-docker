@@ -32,4 +32,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64, linux/arm64
           push: true
-          tags: arata74/mirrorhunter:latest
+          tags: yasir/yasirmirrorbot:latest
